@@ -1,6 +1,6 @@
 import styled from "styled-components";
 
-export const Top = () => {
+export const Users = () => {
   return (
     <SContainer>
       <h2>TOP</h2>
